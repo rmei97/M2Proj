@@ -139,6 +139,6 @@ Thumbs.db
 */.ipynb_checkpoints/*
 
 # config file
-VGChartz.csv
+*.csv
 keys.py
 config.py
