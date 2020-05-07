@@ -140,3 +140,5 @@ Thumbs.db
 
 # config file
 VGChartz.csv
+keys.py
+config.py
